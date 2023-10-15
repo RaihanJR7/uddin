@@ -6,5 +6,8 @@ public class GitProject {
 		
 		
 	}
+	
+	public void click() {}
+	
 
 }
